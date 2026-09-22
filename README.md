@@ -1,7 +1,22 @@
-# PC_Telemetry_Monitor_System
+PC Telemetry & Network Latency Monitor
+
 A hardware-software integration project that streams real-time PC performance metrics (CPU, RAM) and ICMP network latency (Ping) to a physical Arduino-driven 16x2 I2C LCD monitor via serial communication.
 
 This project demonstrates a closed-loop engineering approach, featuring a custom byte-packet communication protocol, a non-blocking embedded state machine, and a complete Proteus ISIS hardware simulation.
+
+📸 Project Gallery
+
+1. System Schematic (Proteus ISIS)
+
+<img width="1700" height="737" alt="schematic" src="https://github.com/user-attachments/assets/6c365d22-718a-491a-9b9d-b85aab98bed5" />
+
+2. Live Telemetry: System Stats (CPU & RAM)
+
+<img width="1117" height="490" alt="Live Telemetry System Stats" src="https://github.com/user-attachments/assets/a931127a-0a48-44d3-b6b7-c6aa670a5453" />
+
+3. Live Telemetry: Network Status (Ping)
+
+<img width="1125" height="475" alt="Live Telemetry Network Status" src="https://github.com/user-attachments/assets/e3af667b-c629-452e-ac64-570052e0c562" />
 
 🚀 Features
 
@@ -78,6 +93,20 @@ PC Telemetri ve Ağ Gecikme Monitörü
 Bu proje, bilgisayarın anlık sistem metriklerini (CPU, RAM) ve ICMP ağ gecikmesini (Ping) seri haberleşme üzerinden fiziksel bir Arduino tabanlı 16x2 I2C LCD ekrana aktaran bir donanım-yazılım entegrasyonudur.
 
 Özel bir bayt-paketi haberleşme protokolü, kilitlenmeyen (non-blocking) gömülü durum makinesi ve eksiksiz bir Proteus ISIS donanım simülasyonu barındıran bu proje, kapalı çevrim bir mühendislik yaklaşımını sergilemektedir.
+
+📸 Proje Galerisi
+
+1. Sistem Şeması (Proteus ISIS)
+
+<img width="1700" height="737" alt="schematic" src="https://github.com/user-attachments/assets/b6d32f84-a6d6-4c79-bdcf-a0e6bde19840" />
+
+2. Canlı Telemetri: Sistem Durumu (CPU & RAM)
+
+<img width="1117" height="490" alt="Live Telemetry System Stats" src="https://github.com/user-attachments/assets/4454d666-06ea-4930-bb6a-dc48ca39dafe" />
+
+3. Canlı Telemetri: Ağ Durumu (Ping)
+
+<img width="1125" height="475" alt="Live Telemetry Network Status" src="https://github.com/user-attachments/assets/49a2fd57-f74b-43b2-9409-104819c5a768" />
 
 🚀 Özellikler
 
